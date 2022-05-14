@@ -6,7 +6,8 @@
 
 Linha adicional de texto informativo sobre o que o projeto faz.  Acesse o [PROJETO]() para mais detalhes.
 
-## 🚀 Tecnologias usadas
+## 🚀 Tecnologias
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Front-end:
 > Desenvolvido usando: React, Redux, CSS3, HTML5, Redis, ES6
@@ -14,7 +15,7 @@ Front-end:
 Back-end:
 > Desenvolvido usando: NodeJS, ExpressJS, MongoDB, MYSQL, ES6
 
-## 📌 Habilidades desenvolvidas
+## 📌 Habilidades
 
 Nesse projeto, fui capaz de:
 
